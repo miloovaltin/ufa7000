@@ -1,0 +1,16 @@
+{
+"name": "ufa7000",
+"theme": "ufa7000",
+"version": "2.7.5",
+"description": "ufa7000 สมัครสมาชิกเว็บไซต์บาคาร่าเว็บตรง คนเล่นเยอะ รับเงินเครดิตฟรี",
+"keywords": [
+"ufa7000",
+"ufa7000 เครดิตฟรี",
+"ufa7000 ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/ufa7000",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
